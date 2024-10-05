@@ -1,3 +1,5 @@
+# journal-app
+An all-in-one journal app that allows you to add labels to your entries and supports multiple media formats such as video and audio
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
